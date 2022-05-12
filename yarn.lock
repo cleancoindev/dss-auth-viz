@@ -762,10 +762,10 @@ uuid@3.3.2:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
 
-viz.js@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.1.tgz#2d2d5b7d036796811734240678af3add3de09498"
-  integrity sha512-KFv7ZFKs+KcqJYIbDwzNIZIJjgPGYrPXB0+QezuHlKOtN8m7TDymtnRLut76QOz41Ea5JDiEq1x19MTftUaKpQ==
+viz.js@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.2.tgz#6f09cd4e10af28754a6d50b055bd2e4a7693983a"
+  integrity sha512-UO6CPAuEMJ8oNR0gLLNl+wUiIzQUsyUOp8SyyDKTqVRBtq7kk1VnFmIZW8QufjxGrGEuI+LVR7p/C7uEKy0LQw==
 
 web3-core-helpers@1.0.0-beta.55:
   version "1.0.0-beta.55"
