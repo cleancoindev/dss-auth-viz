@@ -5,7 +5,7 @@
   "license": "AGPL-3.0-only",
   "dependencies": {
     "dagre": "^0.8.2",
-    "graphlib-dot": "^0.6.2",
+    "graphlib-dot": "^0.6.4",
     "mz": "^2.7.0",
     "opener": "^1.5.1",
     "viz.js": "^2.1.1",
